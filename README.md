@@ -1,133 +1,160 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=220&section=header&text=Naga%20Pranathi%20Majji&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20RAG%20Pipelines%20%C2%B7%20Full-Stack%20AI%20Products&descAlignY=58&descSize=15&descColor=CBC8F5)
+
 <div align="center">
 
-<h1>Naga Pranathi Majji</h1>
-
-<p><strong>AI Engineer · Agentic Systems · RAG Pipelines · Full-Stack AI Products</strong></p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nagapranathimajji-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagapranathimajji)
-[![GitHub](https://img.shields.io/badge/GitHub-nagapranathimajji-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nagapranathimajji)
-[![Email](https://img.shields.io/badge/Email-nagapranathimajji%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nagapranathimajji@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Live%20Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/nagapranathimajji)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7F77DD&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+that+reason+%26+act;LangGraph+%2B+Mistral+7B+via+Ollama+%E2%80%94+no+OpenAI+dependency;RAG+Pipelines+%C2%B7+React+Native+%C2%B7+Flask+%C2%B7+Deep+Learning;Founding+Engineer+%40+Tummy+Tales+%C2%B7+IIT+Ropar+Lab;9.38+GPA+%C2%B7+Immediate+Joiner+%C2%B7+Andhra+Pradesh%2C+India)](https://git.io/typing-svg)
 
 <br/>
 
-![GPA](https://img.shields.io/badge/GPA-9.38%20%2F%2010-7F77DD?style=flat-square)
-![NPTEL](https://img.shields.io/badge/NPTEL-Top%205%25-1D9E75?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Immediate%20Joiner-D85A30?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagapranathimajji)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagapranathimajji@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagapranathimajji)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/nagapranathimajji)
+
+<br/>
+
+![GPA](https://img.shields.io/badge/GPA-9.38%2F10-7F77DD?style=flat-square&labelColor=1a1a2e)
+![NPTEL](https://img.shields.io/badge/NPTEL-Top%205%25-1D9E75?style=flat-square&labelColor=1a1a2e)
+![Status](https://img.shields.io/badge/Status-Immediate%20Joiner-D85A30?style=flat-square&labelColor=1a1a2e)
+![IIT](https://img.shields.io/badge/IIT%20Ropar-Lab%20Contributor-534AB7?style=flat-square&labelColor=1a1a2e)
 
 </div>
 
 ---
 
+## About me
+
 I build AI systems that go beyond prompting — **autonomous reasoning agents, production RAG pipelines, and full-stack mobile apps.**
 
-What sets my profile apart: I've implemented end-to-end agentic workflows using **LangGraph + Mistral 7B via Ollama** (local LLMs, not just API wrappers), solo-built a production React Native app with multi-role auth for a live startup, and contributed to **IIT Ropar's Vicharanashala Lab** under Prof. Sudarshan Iyengar.
+What sets my profile apart: I've implemented end-to-end agentic workflows using **LangGraph + Mistral 7B via Ollama** (local LLMs — no OpenAI dependency), solo-built a production React Native app with multi-role auth for a live startup, and contribute to **IIT Ropar's Vicharanashala Lab** under Prof. Sudarshan Iyengar.
 
-Final-year B.Tech CSE at NRI Institute of Technology · **9.38 GPA** · Immediate joiner.
+Final-year B.Tech CSE · NRI Institute of Technology · **9.38 GPA** · Immediate joiner.
+
+---
+
+## Tech stack
+
+<div align="center">
+
+[![skills](https://skillicons.dev/icons?i=python,js,c,r&theme=dark&perline=8)](https://skillicons.dev)
+
+[![skills](https://skillicons.dev/icons?i=react,nodejs,flask,mongodb,html,css,streamlit,vercel&theme=dark&perline=8)](https://skillicons.dev)
+
+[![skills](https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,vscode,figma&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+| Agentic AI | Mobile / Web | Deep Learning |
+|:---:|:---:|:---:|
+| LangGraph · Ollama · Mistral 7B | React Native · Flask · React.js | CNN · Bi-LSTM · Contrastive Learning |
+| RAG Pipelines · Vector DBs | Node.js · MongoDB · Streamlit | Stable Diffusion · ML Algorithms |
+
+</div>
 
 ---
 
 ## Featured projects
 
-> ### 🤖 [LangGraph Mistral Agent](https://github.com/nagapranathimajji/langgraph-mistral-agent)
-> **Fully local agentic workflow — no OpenAI dependency**
->
-> Multi-step reasoning agent using LangGraph for orchestration and Mistral 7B via Ollama. Handles complex multi-turn tasks with tool use and conditional branching, running entirely on local hardware.
->
-> `LangGraph` `Ollama` `Mistral 7B` `Python` `Agentic AI`
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🤖 LangGraph Mistral Agent
+**Fully local agentic workflow**
 
-> ### 📱 [Tummy Tales — Full-Stack Mobile App](https://github.com/nagapranathimajji/Tummy-Tales)
-> **Solo-built production stack for a school meal delivery startup**
->
-> React Native + Flask app with parent portal, chef dashboard, admin controls, JWT auth, subscription management, and Google Agentspace integration for intelligent query handling.
->
-> `React Native` `Flask` `Google Agentspace` `JWT` `MongoDB`
+Multi-step reasoning agent — LangGraph orchestration + Mistral 7B via Ollama. No OpenAI dependency. Tool use, conditional branching, complex multi-turn reasoning on local hardware.
 
----
+![LangGraph](https://img.shields.io/badge/LangGraph-534AB7?style=flat-square&labelColor=1a1a2e)
+![Ollama](https://img.shields.io/badge/Ollama-444441?style=flat-square&labelColor=1a1a2e)
+![Mistral](https://img.shields.io/badge/Mistral_7B-D85A30?style=flat-square&labelColor=1a1a2e)
 
-> ### 🧠 [Internal IT Assistant — RAG Demo](https://github.com/nagapranathimajji/Internal-IT-Assistant-RAG-Demo-)
-> **Production-style knowledge retrieval · Live on Hugging Face Spaces**
->
-> RAG pipeline answering organisational IT/HR queries using contextual document retrieval and vector search.
->
-> `RAG` `Vector Database` `LLM Integration` `Python` `Hugging Face`
+[![View repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/nagapranathimajji/langgraph-mistral-agent)
 
----
+</td>
+<td width="50%" valign="top">
 
-> ### 👁️ AR Eye Tracking for ASD Detection *(Major Project)*
-> **Published at ICRAIQIIT 2026 · ~80% accuracy**
->
-> Multimodal deep learning architecture (CNN + Bi-LSTM + contrastive learning) for Autism Spectrum Disorder analysis using AR eye-tracking data collected in natural environments.
->
-> `CNN` `Bi-LSTM` `Contrastive Learning` `Deep Learning` `Healthcare AI`
+### 📱 Tummy Tales — Mobile App
+**Solo-built production startup stack**
 
----
+React Native + Flask · multi-role dashboards (parent / chef / admin) · JWT auth · subscription management · Google Agentspace integration for intelligent query handling.
 
-> ### 📰 [Trend-Aware Headline Generator](https://github.com/nagapranathimajji/trend-aware-headline-generator)
-> **Context-aware content generation with local LLM**
->
-> Streamlit app integrating Mistral via Ollama to generate attention-calibrated headlines from user keywords, with system-prompt engineering for tone control.
->
-> `Python` `Streamlit` `Ollama` `Mistral` `Prompt Engineering`
+![ReactNative](https://img.shields.io/badge/React_Native-1D9E75?style=flat-square&labelColor=1a1a2e)
+![Flask](https://img.shields.io/badge/Flask-444441?style=flat-square&labelColor=1a1a2e)
+![Agentspace](https://img.shields.io/badge/Google_Agentspace-534AB7?style=flat-square&labelColor=1a1a2e)
+
+[![View repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/nagapranathimajji/Tummy-Tales)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Internal IT Assistant — RAG
+**Live on Hugging Face Spaces**
+
+Production-style RAG pipeline for organisational knowledge retrieval. Contextual document search using vector DB + LLM integration. Deployed as a live demo.
+
+![RAG](https://img.shields.io/badge/RAG-1D9E75?style=flat-square&labelColor=1a1a2e)
+![VectorDB](https://img.shields.io/badge/Vector_DB-534AB7?style=flat-square&labelColor=1a1a2e)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&labelColor=1a1a2e&logoColor=black)
+
+[![View repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/nagapranathimajji/Internal-IT-Assistant-RAG-Demo-)
+[![Live demo](https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/nagapranathimajji)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ AR Eye Tracking for ASD
+**Published · ICRAIQIIT 2026 · ~80% accuracy**
+
+Multimodal deep learning (CNN + Bi-LSTM + contrastive learning) for Autism Spectrum Disorder analysis using AR eye-tracking data collected in natural environments.
+
+![CNN](https://img.shields.io/badge/CNN-D85A30?style=flat-square&labelColor=1a1a2e)
+![BiLSTM](https://img.shields.io/badge/Bi--LSTM-534AB7?style=flat-square&labelColor=1a1a2e)
+![HealthcareAI](https://img.shields.io/badge/Healthcare_AI-1D9E75?style=flat-square&labelColor=1a1a2e)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-| | Role | Organisation | Period |
-|---|---|---|---|
-| 🟣 | **Founding Engineer & Product Designer** | Tummy Tales (startup) | Jun 2025 – present |
-| 🟢 | **MERN Stack Intern** | IIT Ropar — Vicharanashala Lab, under Prof. Sudarshan Iyengar | Jan 2026 – present |
-| 🟠 | **AI Intern** | Ravi Aadhya Infotech | May – Jun 2025 |
-| ⚪ | **AI Intern** | AICTE TechSaksham (Microsoft & SAP / Edunet Foundation) | Jan – Feb 2025 |
-| ⚪ | **Generative AI Intern** | Codegnan | May – Jul 2024 |
-
----
-
-## Technical skills
-
 ```
-Agentic AI      LangGraph · Ollama · Mistral 7B · RAG Pipelines · Vector Databases
-Deep Learning   CNN · Bi-LSTM · Contrastive Learning · Stable Diffusion
-Mobile / Web    React Native · Flask · React.js · Node.js · MongoDB · Streamlit
-Languages       Python · JavaScript · C · R
-Platforms       GitHub · MongoDB Atlas · Hugging Face Spaces · Vercel
+🟣  Founding Engineer & Product Designer    Tummy Tales (startup)              Jun 2025 – present
+🟢  MERN Stack Intern                       IIT Ropar — Vicharanashala Lab     Jan 2026 – present
+🟠  AI Intern                               Ravi Aadhya Infotech               May – Jun 2025
+⚪  AI Intern                               AICTE TechSaksham (Microsoft/SAP)  Jan – Feb 2025
+⚪  Generative AI Intern                    Codegnan                           May – Jul 2024
 ```
 
 ---
 
-## Highlights
+## GitHub stats
 
-- 📊 **9.38 / 10 GPA** — NRI Institute of Technology
-- 🥇 **NPTEL Top 5%** — Joy of Computing using Python
-- 🤖 **Local LLM agentic systems** — LangGraph + Mistral 7B without cloud API dependency
-- 🏛️ **IIT Ropar lab contributor** — Vicharanashala Lab under Prof. Sudarshan Iyengar
-- 🔬 **Conference publication** — AR eye-tracking ASD system, ICRAIQIIT 2026
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nagapranathimajji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=C9D1D9&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagapranathimajji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagapranathimajji&theme=tokyonight&hide_border=true&background=0D1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD"/>
+
+</div>
 
 ---
 
 ## Certifications
 
-- Fine-Tuning Large Language Models — **DeepLearning.AI**
-- Generative AI Fundamentals — **Databricks**
-- Prompt Engineering — **IBM Cognitive Classes**
-- Joy of Computing Using Python — **NPTEL** *(Top 5%)*
+| Certification | Issuer |
+|---|---|
+| Fine-Tuning Large Language Models | DeepLearning.AI |
+| Generative AI Fundamentals | Databricks |
+| Prompt Engineering | IBM Cognitive Classes |
+| Joy of Computing Using Python *(Top 5%)* | NPTEL |
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nagapranathimajji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagapranathimajji&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagapranathimajji&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<sub>Building production-grade AI systems — not just demos &nbsp;·&nbsp; Andhra Pradesh, India</sub>
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=footer&text=Building%20production-grade%20AI%20systems%20%E2%80%94%20not%20just%20demos&fontSize=14&fontColor=CBC8F5&fontAlignY=65)
