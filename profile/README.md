@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0a,40:1a4a2e,70:6b21a8,100:3b0764&height=220&section=header&text=Naga%20Pranathi%20Majji&fontSize=46&fontColor=f0fdf4&animation=fadeIn&fontAlignY=52&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Healthcare%20AI%20%7C%20Founding%20Engineer&descSize=15&descColor=bbf7d0&descAlignY=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:03001C,30:1B065E,65:4B0082,100:00BFFF&height=230&section=header&text=Naga%20Pranathi%20Majji&fontSize=48&fontColor=E0CFFF&animation=fadeIn&fontAlignY=52&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Healthcare%20AI%20%7C%20Founding%20Engineer&descSize=15&descColor=9EFCFF&descAlignY=71)
 
 </div>
 
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1500&color=86efac&center=true&vCenter=true&width=700&height=40&lines=⚡+LangGraph+%2B+Mistral+7B+—+fully+local%2C+zero+cloud;🧠+IEEE+ICRAIQIIT+2026+—+90.47%25+accuracy%2C+ROC-AUC+0.965;🚀+Founding+Engineer+—+live+startup%2C+real+users;✅+9.38+GPA+·+IIT+Ropar+·+5+Internships+·+Immediate+Joiner)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&width=720&height=40&lines=⚡+LangGraph+%2B+Mistral+7B+—+fully+local%2C+zero+cloud;🧠+IEEE+ICRAIQIIT+2026+—+90.47%25+accuracy+%7C+ROC-AUC+0.965;🚀+Founding+Engineer+—+live+startup%2C+real+users%2C+Andhra+Pradesh;✅+9.38+GPA+·+IIT+Ropar+·+5+Internships+·+Immediate+Joiner)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +14,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a4a2e?style=for-the-badge&logo=linkedin&logoColor=bbf7d0)](https://linkedin.com/in/nagapranathimajji)
-[![Gmail](https://img.shields.io/badge/Gmail-1a4a2e?style=for-the-badge&logo=gmail&logoColor=bbf7d0)](mailto:nagapranathimajji@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a4a2e?style=for-the-badge&logo=github&logoColor=bbf7d0)](https://github.com/nagapranathimajji)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-1a4a2e?style=for-the-badge&logo=huggingface&logoColor=bbf7d0)](https://huggingface.co/nagapranathimajji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B065E?style=for-the-badge&logo=linkedin&logoColor=9EFCFF)](https://linkedin.com/in/nagapranathimajji)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-1B065E?style=for-the-badge&logo=gmail&logoColor=9EFCFF)](mailto:nagapranathimajji@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-1B065E?style=for-the-badge&logo=github&logoColor=9EFCFF)](https://github.com/nagapranathimajji)&nbsp;
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-1B065E?style=for-the-badge&logo=huggingface&logoColor=9EFCFF)](https://huggingface.co/nagapranathimajji)
 
 </div>
 
@@ -25,16 +25,16 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/GPA_9.38/10-3b0764?style=flat-square&labelColor=3b0764)
-![](https://img.shields.io/badge/IEEE_ICRAIQIIT_2026-3b0764?style=flat-square&labelColor=3b0764)
-![](https://img.shields.io/badge/NPTEL_Top_5%25-3b0764?style=flat-square&labelColor=3b0764)
-![](https://img.shields.io/badge/IIT_Ropar_Lab-1a4a2e?style=flat-square&labelColor=1a4a2e)
-![](https://img.shields.io/badge/●_Live_Product-1a4a2e?style=flat-square&labelColor=1a4a2e)
-![](https://img.shields.io/badge/Immediate_Joiner-1a4a2e?style=flat-square&labelColor=1a4a2e)
+![](https://img.shields.io/badge/GPA_9.38/10-1B065E?style=flat-square&labelColor=1B065E)&nbsp;
+![](https://img.shields.io/badge/IEEE_ICRAIQIIT_2026-1B065E?style=flat-square&labelColor=1B065E)&nbsp;
+![](https://img.shields.io/badge/NPTEL_Top_5%25-1B065E?style=flat-square&labelColor=1B065E)&nbsp;
+![](https://img.shields.io/badge/IIT_Ropar_Lab-4B0082?style=flat-square&labelColor=4B0082)&nbsp;
+![](https://img.shields.io/badge/●_Live_Product-007B9E?style=flat-square&labelColor=007B9E)&nbsp;
+![](https://img.shields.io/badge/Immediate_Joiner-007B9E?style=flat-square&labelColor=007B9E)
 
 </div>
 
-<br/>
+<br/><br/>
 
 ---
 
@@ -52,9 +52,9 @@ location : Andhra Pradesh, India
 status   : Immediate Joiner
 
 currently:
-  - Tummy Tales      → Founding Engineer · live school meal startup · Andhra Pradesh
-  - IIT Ropar        → Vicharanashala Lab · Prof. Sudarshan Iyengar
-  - IEEE Published   → CNN + Bi-LSTM · ASD detection · 90.47% acc · ROC-AUC 0.965
+  - Tummy Tales    → Founding Engineer · live school meal startup · Andhra Pradesh
+  - IIT Ropar      → Vicharanashala Lab · Prof. Sudarshan Iyengar
+  - IEEE 2026      → CNN + Bi-LSTM · ASD detection · 90.47% acc · ROC-AUC 0.965
 ```
 
 <br/>
@@ -67,13 +67,24 @@ currently:
 
 <br/>
 
-| [![Python](https://techstack-generator.vercel.app/python-icon.svg)](#) Python | [![React](https://techstack-generator.vercel.app/react-icon.svg)](#) React | [![JS](https://techstack-generator.vercel.app/js-icon.svg)](#) JavaScript | [![GitHub](https://techstack-generator.vercel.app/github-icon.svg)](#) GitHub | [![RestAPI](https://techstack-generator.vercel.app/restapi-icon.svg)](#) Rest API | [![Docker](https://techstack-generator.vercel.app/docker-icon.svg)](#) Docker |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+<div align="center">
+
+[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nodejs,flask,mongodb,js,git,github,vscode,figma&theme=dark&perline=12)](https://skillicons.dev)
+
+</div>
 
 <br/>
 
-| [![PyTorch](https://skillicons.dev/icons?i=pytorch)](#) PyTorch | [![TF](https://skillicons.dev/icons?i=tensorflow)](#) TensorFlow | [![MongoDB](https://skillicons.dev/icons?i=mongodb)](#) MongoDB | [![Flask](https://skillicons.dev/icons?i=flask)](#) Flask | [![NodeJS](https://skillicons.dev/icons?i=nodejs)](#) Node.js | [![Git](https://skillicons.dev/icons?i=git)](#) Git | [![VSCode](https://skillicons.dev/icons?i=vscode)](#) VSCode | [![Figma](https://skillicons.dev/icons?i=figma)](#) Figma |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+<div align="center">
+
+| Domain | Technologies |
+|:--|:--|
+| **Agentic AI** | LangGraph · Ollama · Mistral 7B · RAG · Vector DBs · Prompt Engineering |
+| **Deep Learning** | CNN · Bi-LSTM · Contrastive Learning · Stable Diffusion · PyTorch · TensorFlow |
+| **Mobile & Web** | React Native · React.js · Flask · Node.js · MongoDB · Streamlit |
+| **Languages** | Python · JavaScript · C · R |
+
+</div>
 
 <br/>
 
@@ -85,29 +96,32 @@ currently:
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-### 📱 Tummy Tales &nbsp; ![LIVE](https://img.shields.io/badge/●_LIVE-1a4a2e?style=flat-square&labelColor=1a4a2e)
+**📱 Tummy Tales** &nbsp; ![](https://img.shields.io/badge/●_LIVE-007B9E?style=flat-square&labelColor=007B9E)
 
-> School meal subscription · Andhra Pradesh
-> Solo-built · Zero to production
+*School meal subscription · Andhra Pradesh*
+*Founding Engineer — zero to production, solo*
 
-- React Native · Flask · MongoDB
+- `React Native` · `Flask` · `MongoDB`
 - Razorpay HMAC · JWT · Push notifications
 - Chef dashboard · Allergy-scan mode
 - Google Agentspace integration
 
-[![](https://img.shields.io/badge/→_Repo-0a1a0a?style=flat-square&logo=github&logoColor=bbf7d0)](https://github.com/nagapranathimajji/Tummy-Tales)
+[![](https://img.shields.io/badge/→_Repo-03001C?style=flat-square&logo=github&logoColor=9EFCFF)](https://github.com/nagapranathimajji/Tummy-Tales)
 
+<br/>
 </td>
 <td width="50%" valign="top">
+<br/>
 
-### 👁️ AR Eye Tracking — ASD &nbsp; ![IEEE](https://img.shields.io/badge/IEEE_2026-3b0764?style=flat-square&labelColor=3b0764)
+**👁️ AR Eye Tracking — ASD** &nbsp; ![](https://img.shields.io/badge/IEEE_2026-4B0082?style=flat-square&labelColor=4B0082)
 
-> CNN + Bi-LSTM · Contrastive Learning
-> AR eye-tracking in natural environments
+*CNN + Bi-LSTM · Contrastive Learning*
+*AR eye-tracking in natural environments*
 
 | Metric | Score |
 |:--|--:|
@@ -115,29 +129,34 @@ currently:
 | ROC-AUC | **0.965** |
 | Data | Saliency4ASD + ETSSD |
 
+<br/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-### 🤖 LangGraph Mistral Agent &nbsp; ![local](https://img.shields.io/badge/Zero_Cloud-1a4a2e?style=flat-square&labelColor=1a4a2e)
+**🤖 LangGraph Mistral Agent** &nbsp; ![](https://img.shields.io/badge/Zero_Cloud-1B065E?style=flat-square&labelColor=1B065E)
 
-> Mistral 7B via Ollama · No OpenAI · No cost
-> Multi-step reasoning · tool use · conditional branching
+*Mistral 7B via Ollama · No OpenAI · No cost*
+*Multi-step reasoning · tool use · branching*
 
-[![](https://img.shields.io/badge/→_Repo-0a1a0a?style=flat-square&logo=github&logoColor=bbf7d0)](https://github.com/nagapranathimajji/langgraph-mistral-agent)
+[![](https://img.shields.io/badge/→_Repo-03001C?style=flat-square&logo=github&logoColor=9EFCFF)](https://github.com/nagapranathimajji/langgraph-mistral-agent)
 
+<br/>
 </td>
 <td width="50%" valign="top">
+<br/>
 
-### 🧠 Internal IT RAG Assistant &nbsp; ![hf](https://img.shields.io/badge/Live-3b0764?style=flat-square&labelColor=3b0764)
+**🧠 Internal IT RAG Assistant** &nbsp; ![](https://img.shields.io/badge/HF_Spaces-4B0082?style=flat-square&labelColor=4B0082)
 
-> RAG pipeline · Vector DB · LLM-grounded answers
-> Live on HuggingFace Spaces
+*RAG pipeline · Vector DB · LLM-grounded answers*
+*Live on HuggingFace Spaces*
 
-[![](https://img.shields.io/badge/→_Repo-0a1a0a?style=flat-square&logo=github&logoColor=bbf7d0)](https://github.com/nagapranathimajji/Internal-IT-Assistant-RAG-Demo-)
-[![](https://img.shields.io/badge/→_Demo-0a1a0a?style=flat-square&logo=huggingface&logoColor=bbf7d0)](https://huggingface.co/nagapranathimajji)
+[![](https://img.shields.io/badge/→_Repo-03001C?style=flat-square&logo=github&logoColor=9EFCFF)](https://github.com/nagapranathimajji/Internal-IT-Assistant-RAG-Demo-)&nbsp;
+[![](https://img.shields.io/badge/→_Demo-03001C?style=flat-square&logo=huggingface&logoColor=9EFCFF)](https://huggingface.co/nagapranathimajji)
 
+<br/>
 </td>
 </tr>
 </table>
@@ -172,18 +191,8 @@ May 2024 → Jul    Generative AI Intern                    Codegnan
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nagapranathimajji&show_icons=true&hide_border=true&bg_color=0a1a0a&title_color=86efac&icon_color=bbf7d0&text_color=86efac&count_private=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagapranathimajji&hide_border=true&background=0a1a0a&ring=6b21a8&fire=86efac&currStreakLabel=86efac&sideLabels=4b5563&dates=374151&currStreakNum=f0fdf4&sideNums=f0fdf4"/>
-
-</div>
-
-<br/>
-
-**Activity Graph 📈**
-
-<div align="center">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagapranathimajji&bg_color=0a1a0a&color=86efac&line=6b21a8&point=bbf7d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nagapranathimajji&show_icons=true&hide_border=true&bg_color=03001C&title_color=00BFFF&icon_color=9EFCFF&text_color=C8B8FF&count_private=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagapranathimajji&hide_border=true&background=03001C&ring=4B0082&fire=00BFFF&currStreakLabel=9EFCFF&sideLabels=6B7280&dates=4B5563&currStreakNum=E0CFFF&sideNums=E0CFFF"/>
 
 </div>
 
@@ -191,7 +200,15 @@ May 2024 → Jul    Generative AI Intern                    Codegnan
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=nagapranathimajji&label=PROFILE+VIEWS&style=for-the-badge&color=1a4a2e)](https://github.com/nagapranathimajji)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagapranathimajji&bg_color=03001C&color=9EFCFF&line=4B0082&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=nagapranathimajji&label=PROFILE+VIEWS&style=for-the-badge&color=1B065E)](https://github.com/nagapranathimajji)
 
 </div>
 
@@ -224,6 +241,6 @@ May 2024 → Jul    Generative AI Intern                    Codegnan
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:1a4a2e,100:0a1a0a&height=130&section=footer&text=Open%20to%20opportunities%20—%20Immediate%20Joiner&fontSize=14&fontColor=bbf7d0&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,40:4B0082,70:1B065E,100:03001C&height=130&section=footer&text=Open%20to%20opportunities%20—%20Immediate%20Joiner&fontSize=14&fontColor=9EFCFF&fontAlignY=65)
 
 </div>
