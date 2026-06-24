@@ -46,7 +46,7 @@
 
 
 - 🎓 &nbsp; B.Tech CSE · NRI Institute of Technology · 2026 · **GPA 9.38 / 10**
-- 📍 &nbsp; Andhra Pradesh, India &nbsp;·&nbsp; ⚡ **Immediate Joiner**
+- 📍 &nbsp; Andhra Pradesh, India &nbsp;·&nbsp;
 - 🤖 &nbsp; I build **agentic AI systems** that run fully local — no OpenAI, no cloud bill
 - 📄 &nbsp; Published at **IEEE ICRAIQIIT 2026** — CNN + Bi-LSTM · 90.47% accuracy · ROC-AUC 0.965
 - 🚀 &nbsp; Founding engineer of **Tummy Tales** — live school meal startup, real users, built solo
