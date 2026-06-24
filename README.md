@@ -1,40 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0F0F1A,1a1035,2d1b69&height=280&section=header&text=Naga%20Pranathi%20Majji&fontSize=48&fontColor=E8E4FF&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%94%20Agentic%20Systems%20%C2%B7%20RAG%20Pipelines%20%C2%B7%20Full-Stack%20AI%20Products&descAlignY=62&descSize=16&descColor=9D8FE8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7C3AED,06B6D4&height=260&section=header&text=Naga%20Pranathi%20Majji&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20Agentic%20Systems%20%C2%B7%20RAG%20Pipelines%20%C2%B7%20Full-Stack%20AI%20Products&descAlignY=62&descSize=15&descColor=C4B5FD)
 
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=9D8FE8&center=true&vCenter=true&width=680&lines=Agentic+AI+%E2%80%94+LangGraph+%2B+Mistral+7B+running+locally%2C+no+OpenAI+dependency;Production+RAG+pipelines+%C2%B7+Vector+DBs+%C2%B7+LLM+Integration;React+Native+%2B+Flask+%E2%80%94+solo-built+a+full+startup+stack;IIT+Ropar+Lab+Contributor+%C2%B7+9.38+GPA+%C2%B7+Immediate+Joiner)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=16&pause=1800&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+AI+systems+that+reason+and+act+%E2%80%94+not+just+respond;LangGraph+%2B+Mistral+7B+%7C+fully+local%2C+zero+OpenAI+dependency;Sole+engineer+behind+a+live+startup+app+%E2%80%94+Tummy+Tales;Published+at+ICRAIQIIT+2026+%7C+90.47%25+accuracy+on+ASD+detection;9.38+GPA+%C2%B7+5+Internships+%C2%B7+IIT+Ropar+Contributor+%C2%B7+Immediate+Joiner)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230F0F1A.svg?style=for-the-badge&logo=linkedin&logoColor=9D8FE8)](https://linkedin.com/in/nagapranathimajji)
-[![Gmail](https://img.shields.io/badge/Gmail-%230F0F1A.svg?style=for-the-badge&logo=gmail&logoColor=9D8FE8)](mailto:nagapranathimajji@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%230F0F1A.svg?style=for-the-badge&logo=github&logoColor=9D8FE8)](https://github.com/nagapranathimajji)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%230F0F1A.svg?style=for-the-badge&logo=huggingface&logoColor=9D8FE8)](https://huggingface.co/nagapranathimajji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagapranathimajji)
+[![Gmail](https://img.shields.io/badge/Gmail-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagapranathimajji@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagapranathimajji)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/nagapranathimajji)
 
 <br/>
 
-![](https://img.shields.io/badge/GPA%20%E2%80%94%209.38%20%2F%2010-%230F0F1A?style=flat-square&labelColor=2d1b69&color=2d1b69&logoColor=9D8FE8)
-![](https://img.shields.io/badge/NPTEL%20%E2%80%94%20Top%205%25-%230F0F1A?style=flat-square&labelColor=2d1b69&color=2d1b69)
-![](https://img.shields.io/badge/IIT%20Ropar%20Lab%20Contributor-%230F0F1A?style=flat-square&labelColor=2d1b69&color=2d1b69)
-![](https://img.shields.io/badge/%E2%97%8F%20Immediate%20Joiner-%230F0F1A?style=flat-square&labelColor=1a3a2a&color=1a3a2a)
+![](https://img.shields.io/badge/GPA%20%E2%80%94%209.38%2F10-7C3AED?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/NPTEL%20%E2%80%94%20Top%205%25-5B21D8?style=flat-square)
+![](https://img.shields.io/badge/IIT%20Ropar%20Contributor-06B6D4?style=flat-square)
+![](https://img.shields.io/badge/ICRAIQIIT%202026%20%E2%80%94%20Published-0E7490?style=flat-square)
+![](https://img.shields.io/badge/%E2%97%8F%20Immediate%20Joiner-16a34a?style=flat-square)
 
 </div>
 
-<br/>
-
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=nagapranathimajji&show_icons=true&hide_border=true&bg_color=0F0F1A&title_color=9D8FE8&icon_color=6B5FD4&text_color=8892a4&count_private=true&rank_icon=github"/>
+<img align="right" width="36%" src="https://github-readme-stats.vercel.app/api?username=nagapranathimajji&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=06B6D4&text_color=8892a4&count_private=true&rank_icon=github"/>
 
 ### About me
 
 I build AI systems that **reason and act** — not just respond.
 
-- 🤖 Agentic workflows with **LangGraph + Mistral 7B via Ollama** — fully local, no cloud API dependency
-- 📱 Solo-built a **production React Native + Flask** app for a live startup (Tummy Tales)
-- 🏛️ Contributing to **IIT Ropar's Vicharanashala Lab** under Prof. Sudarshan Iyengar
-- 🔬 Published at **ICRAIQIIT 2026** — AR eye-tracking system for ASD detection
-- 📊 **9.38 GPA** · 5 internships · Immediate joiner
+- 🤖 **Agentic workflows** with LangGraph + Mistral 7B via Ollama — fully local, zero cloud dependency
+- 📱 **Sole engineer** behind Tummy Tales — live startup, full React Native + Flask stack
+- 🏛️ **IIT Ropar** contributor under Prof. Sudarshan Iyengar, Vicharanashala Lab
+- 📄 **Published** at ICRAIQIIT 2026 — 90.47% accuracy, ROC-AUC 0.965 on ASD detection
+- 📊 **9.38 GPA · 5 internships** · Immediate joiner
 
 <br clear="right"/>
 
@@ -51,11 +50,12 @@ I build AI systems that **reason and act** — not just respond.
 <br/>
 
 ```python
-core = {
+pranathi = {
     "agentic_ai"   : ["LangGraph", "Ollama", "Mistral 7B", "RAG Pipelines", "Vector DBs"],
     "mobile_web"   : ["React Native", "Flask", "React.js", "Node.js", "MongoDB", "Streamlit"],
     "deep_learning": ["CNN", "Bi-LSTM", "Contrastive Learning", "Stable Diffusion"],
     "languages"    : ["Python", "JavaScript", "C", "R"],
+    "status"       : "immediate joiner ✓",
 }
 ```
 
@@ -66,60 +66,67 @@ core = {
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4>🤖 LangGraph Mistral Agent</h4>
-<sub>Fully local · no OpenAI dependency</sub>
+
+#### 📱 Tummy Tales — Startup App
+<sub>Sole engineer · Live production stack · Founding Engineer</sub>
 <br/><br/>
-Multi-step reasoning agent built with LangGraph + Mistral 7B via Ollama. Handles tool use, conditional branching, and complex multi-turn tasks entirely on local hardware.
+React Native + Flask with parent portal, chef dashboard (allergy scan mode + kitchen analytics), admin controls, JWT auth, Razorpay integration with HMAC verification, push notifications, and Google Agentspace integration.
 <br/><br/>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-2d1b69?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-1a1035?style=flat-square)
-![Mistral](https://img.shields.io/badge/Mistral_7B-2d1b69?style=flat-square)
-![Python](https://img.shields.io/badge/Python-1a1035?style=flat-square)
+![ReactNative](https://img.shields.io/badge/React_Native-7C3AED?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-06B6D4?style=flat-square)
+![Razorpay](https://img.shields.io/badge/Razorpay-5B21D8?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-0E7490?style=flat-square)
 
-[![repo](https://img.shields.io/badge/→_View_repo-0F0F1A?style=flat-square&logo=github&logoColor=9D8FE8)](https://github.com/nagapranathimajji/langgraph-mistral-agent)
+[![repo](https://img.shields.io/badge/→_View_repo-0d1117?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/nagapranathimajji/Tummy-Tales)
+
 </td>
 <td width="50%" valign="top">
-<h4>📱 Tummy Tales — Startup App</h4>
-<sub>Solo-built production stack · founding engineer</sub>
+
+#### 👁️ AR Eye Tracking for ASD
+<sub>ICRAIQIIT 2026 · Published · 90.47% accuracy</sub>
 <br/><br/>
-React Native + Flask with parent portal, chef dashboard, admin controls, JWT auth, subscription management, and Google Agentspace integration.
+Multimodal deep learning — CNN + Bi-LSTM + contrastive learning — for Autism Spectrum Disorder detection via AR eye-tracking in natural environments. ROC-AUC: 0.965. Deployed as an AR Streamlit interface.
 <br/><br/>
 
-![ReactNative](https://img.shields.io/badge/React_Native-2d1b69?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-1a1035?style=flat-square)
-![Agentspace](https://img.shields.io/badge/Google_Agentspace-2d1b69?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1035?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-7C3AED?style=flat-square)
+![BiLSTM](https://img.shields.io/badge/Bi--LSTM-06B6D4?style=flat-square)
+![Published](https://img.shields.io/badge/Published-16a34a?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Acc%3A_90.47%25-5B21D8?style=flat-square)
 
-[![repo](https://img.shields.io/badge/→_View_repo-0F0F1A?style=flat-square&logo=github&logoColor=9D8FE8)](https://github.com/nagapranathimajji/Tummy-Tales)
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>🧠 Internal IT Assistant — RAG</h4>
-<sub>Live on Hugging Face Spaces</sub>
+
+#### 🤖 LangGraph Mistral Agent
+<sub>Fully local · Zero OpenAI dependency</sub>
 <br/><br/>
-Production-style RAG pipeline for organisational knowledge retrieval. Contextual document search via vector DB + LLM. Deployed as a live demo app.
+Multi-step reasoning agent with LangGraph + Mistral 7B via Ollama. Tool use, conditional branching, and complex multi-turn tasks — entirely on local hardware.
 <br/><br/>
 
-![RAG](https://img.shields.io/badge/RAG-2d1b69?style=flat-square)
-![VectorDB](https://img.shields.io/badge/Vector_DB-1a1035?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-2d1b69?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-5B21D8?style=flat-square)
+![Mistral](https://img.shields.io/badge/Mistral_7B-06B6D4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0E7490?style=flat-square)
 
-[![repo](https://img.shields.io/badge/→_View_repo-0F0F1A?style=flat-square&logo=github&logoColor=9D8FE8)](https://github.com/nagapranathimajji/Internal-IT-Assistant-RAG-Demo-)
-[![demo](https://img.shields.io/badge/→_Live_demo-0F0F1A?style=flat-square&logo=huggingface&logoColor=9D8FE8)](https://huggingface.co/nagapranathimajji)
+[![repo](https://img.shields.io/badge/→_View_repo-0d1117?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/nagapranathimajji/langgraph-mistral-agent)
+
 </td>
 <td width="50%" valign="top">
-<h4>👁️ AR Eye Tracking for ASD</h4>
-<sub>ICRAIQIIT 2026 · ~80% accuracy</sub>
+
+#### 🧠 Internal IT Assistant — RAG
+<sub>Live on Hugging Face Spaces</sub>
 <br/><br/>
-Multimodal deep learning architecture — CNN + Bi-LSTM + contrastive learning — for Autism Spectrum Disorder analysis using AR eye-tracking in natural environments.
+Production-style RAG pipeline for organisational knowledge retrieval. Contextual document search via vector DB + LLM. Live demo deployed on Hugging Face Spaces.
 <br/><br/>
 
-![CNN](https://img.shields.io/badge/CNN-2d1b69?style=flat-square)
-![BiLSTM](https://img.shields.io/badge/Bi--LSTM-1a1035?style=flat-square)
-![Healthcare](https://img.shields.io/badge/Healthcare_AI-2d1b69?style=flat-square)
-![Published](https://img.shields.io/badge/Published-1a3a2a?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![VectorDB](https://img.shields.io/badge/Vector_DB-06B6D4?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-5B21D8?style=flat-square)
+
+[![repo](https://img.shields.io/badge/→_View_repo-0d1117?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/nagapranathimajji/Internal-IT-Assistant-RAG-Demo-)
+[![demo](https://img.shields.io/badge/→_Live_demo-0d1117?style=flat-square&logo=huggingface&logoColor=A78BFA)](https://huggingface.co/nagapranathimajji)
 
 </td>
 </tr>
@@ -130,12 +137,12 @@ Multimodal deep learning architecture — CNN + Bi-LSTM + contrastive learning �
 ### Experience
 
 | | Role | Where | When |
-|---|---|---|---|
+|:---:|---|---|---|
 | 🟣 | **Founding Engineer & Product Designer** | Tummy Tales | Jun 2025 – present |
 | 🟣 | **MERN Stack Intern** | IIT Ropar — Vicharanashala Lab | Jan 2026 – present |
-| 🟣 | **AI Intern** | Ravi Aadhya Infotech | May – Jun 2025 |
-| ◻️ | **AI Intern** | AICTE TechSaksham — Microsoft & SAP | Jan – Feb 2025 |
-| ◻️ | **Generative AI Intern** | Codegnan | May – Jul 2024 |
+| 🟣 | **AI Intern — Agentic AI** | Ravi Aadhya Infotech | May – Jun 2025 |
+| ⬜ | **AI Intern** | AICTE TechSaksham — Microsoft & SAP | Jan – Feb 2025 |
+| ⬜ | **Generative AI Intern** | Codegnan | May – Jul 2024 |
 
 ---
 
@@ -143,9 +150,9 @@ Multimodal deep learning architecture — CNN + Bi-LSTM + contrastive learning �
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagapranathimajji&hide_border=true&background=0F0F1A&ring=6B5FD4&fire=9D8FE8&currStreakLabel=9D8FE8&sideLabels=8892a4&dates=8892a4&currStreakNum=E8E4FF&sideNums=E8E4FF&stroke=2d1b69"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagapranathimajji&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8892a4&dates=8892a4&currStreakNum=ffffff&sideNums=ffffff&stroke=1e1b4b"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagapranathimajji&layout=compact&hide_border=true&bg_color=0F0F1A&title_color=9D8FE8&text_color=8892a4"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagapranathimajji&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=8892a4"/>
 
 </div>
 
@@ -154,12 +161,12 @@ Multimodal deep learning architecture — CNN + Bi-LSTM + contrastive learning �
 ### Certifications
 
 | | Certification | Issuer |
-|---|---|---|
+|:---:|---|---|
+| 🏅 | Joy of Computing Using Python — **Top 5%** | NPTEL · IIT Madras |
 | 📜 | Fine-Tuning Large Language Models | DeepLearning.AI |
 | 📜 | Generative AI Fundamentals | Databricks |
 | 📜 | Prompt Engineering | IBM Cognitive Classes |
-| 🏅 | Joy of Computing Using Python — **Top 5%** | NPTEL |
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0F0F1A,1a1035,2d1b69&height=140&section=footer&text=Building%20production-grade%20AI%20%E2%80%94%20not%20just%20demos&fontSize=15&fontColor=9D8FE8&fontAlignY=65&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7C3AED,06B6D4&height=120&section=footer&text=Building+production-grade+AI+%E2%80%94+not+just+demos&fontSize=14&fontColor=C4B5FD&fontAlignY=65&animation=fadeIn)
