@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:03001C,30:1B065E,65:4B0082,100:00BFFF&height=230&section=header&text=Naga%20Pranathi%20Majji&fontSize=48&fontColor=E0CFFF&animation=fadeIn&fontAlignY=52&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Healthcare%20AI%20%7C%20Founding%20Engineer&descSize=15&descColor=9EFCFF&descAlignY=71)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0D0221,55:4B0082,100:00BFFF&height=230&section=header&text=Naga%20Pranathi%20Majji&fontSize=48&fontColor=E0CFFF&animation=fadeIn&fontAlignY=52&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Healthcare%20AI%20%7C%20Founding%20Engineer&descSize=15&descColor=9EFCFF&descAlignY=71)
 
 </div>
 
@@ -44,18 +44,34 @@
 
 <br/>
 
-```yaml
-name     : Naga Pranathi Majji
-role     : AI Engineer — Agentic Systems · Healthcare AI · Founding Engineer
-education: B.Tech CSE · NRI Institute of Technology · 2026 · GPA 9.38/10
-location : Andhra Pradesh, India
-status   : Immediate Joiner
 
-currently:
-  - Tummy Tales    → Founding Engineer · live school meal startup · Andhra Pradesh
-  - IIT Ropar      → Vicharanashala Lab · Prof. Sudarshan Iyengar
-  - IEEE 2026      → CNN + Bi-LSTM · ASD detection · 90.47% acc · ROC-AUC 0.965
-```
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+🎓 &nbsp; **B.Tech CSE** · NRI Institute of Technology · 2026
+📍 &nbsp; Andhra Pradesh, India
+⚡ &nbsp; **Immediate Joiner** — open to AI/ML roles
+
+&nbsp;
+
+> I build AI that ships — not demos. Agentic pipelines that run fully local, deep learning systems published at IEEE, and a live startup serving real school kids across Andhra Pradesh. 5 internships, one published paper, one live product — all before graduation.
+
+</td>
+<td width="50%" valign="top">
+
+| &nbsp; | &nbsp; |
+|:--|:--|
+| 🏆 | **GPA 9.38/10** · NRI Institute of Technology |
+| 📄 | **IEEE ICRAIQIIT 2026** · Published · 90.47% acc |
+| 🚀 | **Tummy Tales** · Live startup · Founding Engineer |
+| 🏛️ | **IIT Ropar** · Vicharanashala Lab · Prof. S. Iyengar |
+| 🥇 | **NPTEL Top 5%** · Joy of Computing · IIT Madras |
+| ✅ | **5 Internships** · Microsoft · IIT · AI startups |
+
+</td>
+</tr>
+</table>
 
 <br/>
 
