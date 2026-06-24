@@ -1,235 +1,131 @@
-# Hi, I'm Naga Pranathi Majji 👋
+<div align="center">
 
-### AI Engineer | Agentic Systems | RAG | Multimodal AI | Full-Stack Development
+# Naga Pranathi Majji
 
-Building intelligent systems that combine AI research, autonomous workflows, and product engineering to solve real-world problems.
+**AI Engineer · Agentic Systems · RAG Pipelines · Full-Stack AI Products**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nagapranathimajji-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nagapranathimajji)
+[![GitHub](https://img.shields.io/badge/GitHub-nagapranathimajji-181717?style=flat&logo=github)](https://github.com/nagapranathimajji)
+[![Email](https://img.shields.io/badge/Email-nagapranathimajji@gmail.com-EA4335?style=flat&logo=gmail)](mailto:nagapranathimajji@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Demo-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/spaces)
 
-## 🚀 About Me
-
-🎓 Final Year B.Tech Computer Science Student
-
-📍 Andhra Pradesh, India
-
-🤖 Passionate about building AI systems that move beyond simple chatbots into autonomous reasoning, intelligent retrieval, multimodal understanding, and real-world applications.
-
-My interests include:
-
-* Agentic AI Systems
-* Retrieval-Augmented Generation (RAG)
-* LangGraph Workflows
-* Multimodal Deep Learning
-* Full-Stack AI Products
-* AI Research & Applied Machine Learning
+</div>
 
 ---
 
-## 🔥 Featured Projects
+I build AI systems that go beyond prompting — autonomous reasoning agents, production RAG pipelines, and full-stack mobile apps. Currently finishing B.Tech CSE at NRI Institute of Technology (9.38 GPA) while working as a founding engineer on [Tummy Tales](#-tummy-tales--founding-engineer), a school meal delivery startup.
 
-### 🧠 AR Eye Tracking for Autism Detection
-
-Research-oriented multimodal deep learning system for Autism Spectrum Disorder analysis using AR-based eye-tracking data collected in natural environments.
-
-#### Key Highlights
-
-* Multimodal Architecture
-* Contrastive Learning
-* Eye Tracking Analytics
-* Deep Learning Pipelines
-* Healthcare AI Research
+**What makes my profile unusual for a fresher:** I've implemented end-to-end agentic workflows using LangGraph + Mistral 7B via Ollama (local LLMs, not just API wrappers), built production-grade mobile apps with multi-role auth, and contributed to an IIT Ropar research lab. Immediate joiner.
 
 ---
 
-### 🤖 Agentic AI Workflow Systems
+## 🔧 Technical Stack
 
-Designed autonomous AI workflows using LangGraph, Mistral, and Ollama for complex reasoning and multi-step task execution.
-
-#### Technologies
-
-* LangGraph
-* Ollama
-* Mistral
-* Python
-* Agent Orchestration
+```
+Agentic AI:     LangGraph · Ollama · Mistral 7B · RAG Pipelines · Vector DBs
+Deep Learning:  CNN · Bi-LSTM · Contrastive Learning · Stable Diffusion
+Mobile/Web:     React Native · Flask · React.js · Node.js · MongoDB · Streamlit
+Languages:      Python · JavaScript · C · R
+Platforms:      GitHub · MongoDB Atlas · Hugging Face Spaces · Vercel
+```
 
 ---
 
-### 💬 Internal AI Knowledge Assistant
+## 🚀 Featured Projects
 
-Built Retrieval-Augmented Generation systems capable of answering organizational queries using contextual knowledge retrieval.
+### 🤖 [LangGraph Mistral Agent](https://github.com/nagapranathimajji/langgraph-mistral-agent)
+> Autonomous multi-step reasoning agent running entirely on local hardware
 
-#### Technologies
+Built a fully local agentic workflow using **LangGraph** for orchestration and **Mistral 7B via Ollama** — no OpenAI API dependency. The agent handles complex, multi-turn reasoning tasks with tool use and conditional branching.
 
-* RAG
-* Vector Databases
-* LLM Integration
-* Python
-* Knowledge Retrieval
+`LangGraph` `Ollama` `Mistral 7B` `Python` `Agentic AI`
 
 ---
 
-### 📱 Tummy Tales Mobile Application
+### 🧠 [Internal IT Assistant — RAG Demo](https://github.com/nagapranathimajji/Internal-IT-Assistant-RAG-Demo-)
+> Production-style knowledge retrieval system hosted on Hugging Face Spaces
 
-Designed and developed a cross-platform mobile application focused on meal discovery and subscription workflows.
+Built a RAG pipeline that answers IT and HR queries using contextual document retrieval. Deployed as a live app on Hugging Face Spaces.
 
-#### Technologies
-
-* React Native
-* Mobile UI Design
-* Product Prototyping
-* User Experience Design
+`RAG` `Vector Database` `LLM Integration` `Python` `Hugging Face`
 
 ---
 
-### 📰 Trend-Aware Headline Generator
+### 📱 [Tummy Tales — React Native App](https://github.com/nagapranathimajji/Tummy-Tales)
+> Full-stack mobile app: multi-role dashboards, Flask backend, Google Agentspace integration
 
-AI-powered content generation system that creates context-aware headlines using local large language models.
+Solo-built the entire technical stack for this school meal delivery startup — parent portal, chef dashboard, admin controls, JWT auth, subscription management, and Google Agentspace integration for intelligent query handling.
 
-#### Technologies
-
-* Python
-* Streamlit
-* Ollama
-* Mistral
+`React Native` `Flask` `Google Agentspace` `JWT Auth` `MongoDB`
 
 ---
 
-### 🎮 Word Sphere
+### 👁️ AR Eye Tracking for ASD Detection *(Major Project)*
+> Multimodal deep learning for Autism Spectrum Disorder analysis in natural environments
 
-Generative AI-powered word intelligence platform developed during internship experience.
+Designed a CNN + Bi-LSTM architecture with contrastive learning on AR eye-tracking data. Achieved **~80% accuracy** on limited real-world datasets collected in natural (not lab) settings. Published at ICRAIQIIT 2026.
 
-#### Technologies
+`Deep Learning` `Bi-LSTM` `CNN` `Contrastive Learning` `Healthcare AI`
 
-* Flask
-* Generative AI
-* Python
-* API Integrations
+---
+
+### 📰 [Trend-Aware Headline Generator](https://github.com/nagapranathimajji/trend-aware-headline-generator)
+> Streamlit app generating context-aware headlines using local LLM
+
+Integrates Mistral via Ollama to generate attention-calibrated headlines from user keywords. Single-page Streamlit interface with system-prompt engineering for tone control.
+
+`Python` `Streamlit` `Ollama` `Mistral` `Prompt Engineering`
 
 ---
 
 ## 💼 Experience
 
-### AI Intern
-
-Worked on Agentic AI workflows using LangGraph and local LLM architectures.
-
-### MERN Stack Intern
-
-Contributing to industry-oriented software systems through academic-industry collaboration initiatives.
-
-### Generative AI Intern
-
-Developed and deployed AI-powered applications leveraging modern generative AI technologies.
-
-### Freelance Developer
-
-Designed digital products, application prototypes, and startup-focused solutions.
+| Role | Organization | Period | Key Work |
+|------|-------------|--------|----------|
+| **Founding Engineer & Product Designer** | Tummy Tales (Startup) | Jun 2025 – Present | Solo-built React Native + Flask production app, multi-role auth, Google Agentspace |
+| **MERN Stack Intern** | IIT Ropar – Vicharanashala Lab | Jan 2026 – Present | Industry-impactful applications under Prof. Sudarshan Iyengar |
+| **AI Intern** | Ravi Aadhya Infotech | May – Jun 2025 | Agentic workflows: LangGraph + Mistral 7B via Ollama |
+| **AI Intern** | AICTE TechSaksham (Microsoft & SAP) | Jan – Feb 2025 | Stable Diffusion image generation pipeline |
+| **Generative AI Intern** | Codegnan | May – Jul 2024 | Word Sphere — Flask-based GenAI word game |
 
 ---
 
-## 🛠️ Technical Skills
+## 🏆 Highlights
 
-### Artificial Intelligence
-
-* Generative AI
-* LangGraph
-* RAG Systems
-* Agentic AI
-* Ollama
-* Mistral
-* Stable Diffusion
-* Deep Learning
-* Machine Learning
-
-### Programming Languages
-
-* Python
-* JavaScript
-* C
-* R
-
-### Web & Mobile Development
-
-* React
-* React Native
-* Node.js
-* Express.js
-* MongoDB
-* Flask
-* Streamlit
-* HTML
-* CSS
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Ollama
-* MongoDB Atlas
-* Vercel
-* VS Code
+- 📊 **9.38 / 10 GPA** — NRI Institute of Technology
+- 🥇 **NPTEL Top 5%** — Joy of Computing using Python
+- 🤖 **Local LLM agentic systems** — LangGraph + Mistral 7B without cloud API dependency
+- 🏛️ **IIT Ropar lab contributor** — Vicharanashala Lab, under Prof. Sudarshan Iyengar
+- 🔬 **Conference publication** — AR eye-tracking ASD system, ICRAIQIIT 2026
 
 ---
 
-## 🏆 Achievements
+## 📜 Certifications
 
-🎓 CGPA: 9.38 / 10
-
-🏅 NPTEL Top 5% Performer – Joy of Computing using Python
-
-🤖 Built Agentic AI systems using LangGraph and Local LLMs
-
-🧠 Developed applications spanning:
-
-* Healthcare AI
-* Knowledge Retrieval
-* Content Generation
-* Workflow Automation
-* Mobile Applications
+- Fine-Tuning Large Language Models — **DeepLearning.AI**
+- Generative AI Fundamentals — **Databricks**
+- Prompt Engineering — **IBM Cognitive Classes**
+- Joy of Computing Using Python — **NPTEL** *(Top 5%)*
 
 ---
 
-## 📚 Certifications
-
-* Generative AI Fundamentals — Databricks
-* Fine-Tuning Large Language Models — DeepLearning.AI
-* Prompt Engineering — IBM Cognitive Classes
-* Joy of Computing Using Python — NPTEL
-
----
-
-## 🌱 Currently Exploring
-
-* Advanced Agentic AI Architectures
-* Multi-Agent Systems
-* AI Product Engineering
-* Multimodal Deep Learning
-* Autonomous Workflows
-* Production-Ready AI Applications
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nagapranathimajji&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nagapranathimajji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagapranathimajji&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagapranathimajji&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagapranathimajji&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagapranathimajji&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-📧 Email: [nagapranathimajji@gmail.com](mailto:nagapranathimajji@gmail.com)
+**Immediate joiner · Open to AI/ML and Full-Stack AI roles · Andhra Pradesh, India**
 
-💼 LinkedIn: https://linkedin.com/in/nagapranathimajji
+*Building production-grade AI systems — not just demos.*
 
-💻 GitHub: https://github.com/nagapranathimajji
-
----
-
-### Building the next generation of intelligent systems through AI, research, and product engineering.
+</div>
